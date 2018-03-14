@@ -1,6 +1,8 @@
 # Lantern®
 ## NoSchoolViolence.org
 
+This repository currently contains very few EDA scripts used to understand our raw data, which are text documents. Some of the older scripts written for this project can be found in [the other repository](https://github.com/kalo37/Lantern_v2). This repository may be deprecated, due to collaborations with other corporations developing a new version of the app.
+
 ### Description
 The Lantern® 2 is a Python web app search query tool providing users with the means of correlating observed behaviors to certain types of violence. This is achieved by:
 
